@@ -1,0 +1,14 @@
+# Compiled output
+main.o
+Ninja Rush.exe
+
+# Dev-C++ project files
+Ninja Rush.dev
+Ninja Rush.layout
+Makefile.win
+
+# DLL files (SFML & runtime)
+*.dll
+
+# Score data (runtime generated)
+score.txt
