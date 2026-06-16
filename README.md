@@ -7,6 +7,7 @@
 This project was developed as a first-semester programming project to demonstrate the practical implementation of programming concepts such as graphics rendering, event handling, collision detection, randomization, and file handling.
 
 ---
+<video src="Ninja Rush video.mp4" width="100%" autoplay loop muted controls></video>
 
 # Features
 
